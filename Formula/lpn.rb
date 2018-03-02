@@ -2,9 +2,9 @@ class Lpn < Formula
   desc ''
   homepage 'https://dl.equinox.io/mdelapenya/lpn'
 
-  url 'https://bin.equinox.io/a/4AxCyQ4x93o/lpn-0.2.0-darwin-amd64.tar.gz'
-  sha256 'fb3a04bc380760cd8f43c52acc33c6878acefc7cda30045752ae5ab3cca5e34c'
-  version '0.2.0'
+  url 'https://bin.equinox.io/a/2HwwEcgghP2/lpn-0.3.0-darwin-amd64.tar.gz'
+  sha256 '6d0e020595efcf9766e7bafaeee0b523aabe0d34aa58c9db5c6cada9f9aed7bb'
+  version '0.3.0'
 
   def install
     bin.install 'lpn'
